@@ -1,1 +1,9 @@
 
+<html>
+  <head>
+    <title>Day 1 _ Installation(설치)</title>
+  </head>
+  <body>
+    <h1>WELCOME</h1>
+  </body>
+</html>
