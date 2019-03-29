@@ -1,0 +1,17 @@
+@charest "UTF-8";
+
+.box{
+	border-style: solid;
+	border-width: 2px;
+}
+body{
+	margin:0; padding:0;
+}
+header{
+	margin: 0px; padding:2px;
+	background-color:red;
+}
+.el-center {
+  margin: auto;
+  width: 100%;
+}
