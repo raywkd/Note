@@ -11,3 +11,7 @@ header{
 	margin: 0px; padding:2px;
 	background-color:red;
 }
+.el-center {
+  margin: auto;
+  width: 70%;
+}
